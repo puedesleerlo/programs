@@ -1,2 +1,3 @@
-<-x;
-<-y;
+assign x to listen channel 1 with range 0-360 and default 50;
+assign y to listen channel 2 with range 0-360 and default 50;
+assign lego to push channel 3 with range 0-360 and default 50;
